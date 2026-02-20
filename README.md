@@ -33,3 +33,5 @@ A simple browser-based mini game where players try to guess a randomly generated
 1. Clone the repo:
    ```bash
    git clone https://github.com/NwankwoMichael/Guess-My-Number.git
+
+[Try the Task Manager here](https://nwankwomichael.github.io/Guess-My-Number/)
