@@ -34,4 +34,4 @@ A simple browser-based mini game where players try to guess a randomly generated
    ```bash
    git clone https://github.com/NwankwoMichael/Guess-My-Number.git
 
-[Try the Task Manager here](https://nwankwomichael.github.io/Guess-My-Number/)
+[Try the Guess my number game here](https://nwankwomichael.github.io/Guess-My-Number/)
